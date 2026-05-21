@@ -1,0 +1,6 @@
+{
+  "name": "AI Offline Translator",
+  "description": "An offline-first multilingual translator app with text, voice, live subtitles, and camera translation with online AI enhancements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
